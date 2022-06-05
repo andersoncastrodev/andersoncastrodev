@@ -1,4 +1,4 @@
-<h2>👋 &nbsp;Olá, eu sou o Anderson, um desenvolvedor full stack apaixonado pelo que faz!</h2>
+<h2>👋 &nbsp;Olá, eu sou o Anderson, um desenvolvedor web sempre busca de inovações e tecnologias novas.</h2>
   
 <div>
   <a href="https://github.com/andersoncastrodev">
