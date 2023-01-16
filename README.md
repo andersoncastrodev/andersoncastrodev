@@ -1,10 +1,6 @@
 <h2>👋 &nbsp;Olá, eu sou o Anderson, um desenvolvedor web sempre em busca de inovações e tecnologias novas.</h2>
-  
-<div>
-  <a href="https://github.com/andersoncastrodev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersoncastrodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=algolia "/>
-</div>
+ 
+
 <h3>⚙️&nbsp;Back-end:</h3>
   
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
