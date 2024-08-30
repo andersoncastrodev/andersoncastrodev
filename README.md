@@ -1,6 +1,4 @@
-<h2>👋 &nbsp;Olá, eu sou o Anderson, um desenvolvedor web sempre em busca de inovações e tecnologias novas.</h2>
- 
-
+ ##
 <h3>⚙️&nbsp;Back-end:</h3>
   
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
